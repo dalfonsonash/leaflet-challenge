@@ -4,8 +4,8 @@ The purpose of this challenge is to develop a way to visualize USGS data that wi
 
 The project consists of two parts:
 
--Part 1: Create Earthquake Visualization
--Part 2: Gather and Plot More Data
+*Part 1: Create Earthquake Visualization
+*Part 2: Gather and Plot More Data
 
 Part 1 is contained within the Leaflet-Part-1 directory.  The directory contains the index.html file, and a 'static' folder where the logic.js and style.css is located.
 
